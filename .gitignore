@@ -1,0 +1,6 @@
+#DS_Store files refer to Desktop Service Store files. They are a set of files created automatically when a folder is opened in the macOS Finder application. They hold attribute and 
+#metadata information such as folder view options and icon formatting of their respective folders.
+#Think of it as the hidden desktop.ini file if you have ever used Windows.
+#Although .DS_Store files are hidden in the macOS operating system. They can still be ported into a repository without the user knowing.
+
+.DS_Store
